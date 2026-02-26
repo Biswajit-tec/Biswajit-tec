@@ -1,5 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on building my new portfolio website to showcase my latest projects and technical journey.<br><br>🌱 I’m currently learning * Google Cloud Console: Implementing data sharing and management.<br><br>Machine Learning: Training and deploying ML APIs via cloud environments.<br><br>Full-Stack Mastery: Deepening my understanding of core concepts in both frontend and backend architecture.<br><br>👯 I’m looking to collaborate on machine learning projects<br><br>⚡ Fun fact: I am a "learning enthusiast"— I’m just as happy diving into a complex documentation rabbit hole for 6 hours straight to master a new tool!<br><br>Documentaion work : presentation, report and everything related to this
+🚀 About Me
+Hi, I'm Biswajit Sahu — a Full-Stack Developer focused on building immersive, high-performance web experiences.
+I combine strong backend architecture with visually dynamic frontends using modern animation and 3D technologies.
+🛠️ Tech Stack
+Frontend
+HTML5, CSS3, JavaScript (ES6+)
+React.js
+GSAP (ScrollTrigger, advanced animations)
+Three.js (3D & interactive experiences)
+Responsive & performance-optimized UI
+Backend
+Node.js
+Express.js
+REST API Development
+Authentication & Secure Architecture
+MongoDB
+🎯 What I Care About
+Clean component architecture
+Scalable backend systems
+Smooth animations & cinematic UI
+Performance + user experience
+⚡ Fun Fact
+If there’s complex documentation, I’m diving in. I enjoy mastering tools deeply and pushing them beyond basic usage
 
 
 ## 🌐 Socials:
